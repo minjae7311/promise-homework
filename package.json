@@ -1,0 +1,19 @@
+{
+  "name": "promise-assignment",
+  "version": "1.0.0",
+  "description": "implementation promise by vanila js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minjae7311/promise-homework.git"
+  },
+  "author": "MINJAE KIM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minjae7311/promise-homework/issues"
+  },
+  "homepage": "https://github.com/minjae7311/promise-homework#readme"
+}
